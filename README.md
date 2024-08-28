@@ -1,5 +1,8 @@
 # Spotify_Project_SQL
 
+![68747470733a2f2f63646e322e646f776e6465746563746f722e636f6d2f7374617469632f75706c6f6164732f632f3330302f31326634382f53706f746966795f4c6f676f5f5247425f477265656e2e706e67](https://github.com/user-attachments/assets/e308dc4c-99ad-42ba-bdb8-b3df0fc338d6)
+
+
 **Description**
 
 This project is designed to perform data analysis on a relational database schema that manages various entities such as employees, customers, invoices, and media (tracks and albums). The goal is to provide insights and analytics based on the data stored in these tables.
